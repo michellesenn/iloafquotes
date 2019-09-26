@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Jim+Nightshade");
+@import url("https://fonts.googleapis.com/css?family=Assistant:300");
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+	padding-left: 10%;
+	padding-right: 5%;
+	padding-bottom: 10%;
+	position: fixed
+}
+
+#highlight {
+  font-family: 'Calibre';
+  font-weight: 500;
+  font-size: 8vmin;
+  line-height: 1.2;
+  hanging-punctuation: first;
+  color: rgba(255,255,255,1.00);
+	padding-right: 30%;
+		  margin-top: 0px;
+				  padding-top: 0px;
+}
+
+#quotation {
+  font-family: 'Calibre';
+	font-weight: 100;
+  font-size: 3vmin;
+  line-height: 1.2;
+  hanging-punctuation: first;
+  color: rgba(255,255,255,0.60);
+		padding-right: 40%
+}
+
+#source {
+  font-family: 'Assistant', sans-serif;
+  font-size: 3vmin;
+  color: rgba(255,255,255,0.60);
+}
+h1 {
+  font-family: 'Calibre';
+  font-size: 24vmin;
+  line-height: 0vmin;
+  font-weight: 500;
+  color: rgba(255,255,255,0.50);
+  margin-bottom: 0px;
+  padding-bottom: 0px
+}

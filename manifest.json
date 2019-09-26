@@ -1,0 +1,13 @@
+{
+  "name": "I Loaf Quotes (Alpha)",
+  "description": "Override the new tab page with a toasty one",
+  "version": "1.6",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "manifest_version": 2,
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" }
+}
